@@ -481,9 +481,7 @@ export default function App() {
       </section>
 
       <footer className="footer">
-        <p>
-          © {new Date().getFullYear()} Aswin S. Thampalakad — Built with React
-        </p>
+        <p>© {new Date().getFullYear()} Aswin S. Thampalakad</p>
       </footer>
     </div>
   );
