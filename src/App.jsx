@@ -429,10 +429,10 @@ export default function App() {
             </p>
             <div className="meta-row column">
               <span>📍 Kochi, KL / Remote</span>
-              <span>📧 aswin.s.t.s04@gmail.com</span>
+              <span>📧 aswinst.dev6477@gmail.com </span>
               <span>📱 +91-9526374812</span>
               <a
-                href="https://linkedin.com/in/aswin-s-thampalakad"
+                href="https://www.linkedin.com/in/aswin-s-20b6ab411/"
                 target="_blank"
                 rel="noreferrer"
               >
